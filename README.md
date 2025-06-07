@@ -3,7 +3,7 @@
 
 A fun and practical project to detect human emotions using your webcam, OpenCV, and the FER (Facial Emotion Recognition) library. It works like an intelligent app that shows how you're feeling — in real time!
 
-> 🔥 Built as part of the **Code Hers – Week 3 Project**.
+> 🔥 Built as part of the **Code Hers – Week 1 Project**.
 
 ## 🚀 Demo
 
